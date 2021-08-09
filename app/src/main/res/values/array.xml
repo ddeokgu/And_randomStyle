@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="telecom">
+        <item>SKT</item>
+        <item>KT</item>
+        <item>LGU+</item>
+    </string-array>
+
+    <string-array name="Email">
+        <item>직접입력</item>
+        <item>네이버</item>
+        <item>구글</item>
+        <item>다음</item>
+    </string-array>
+
+</resources>
